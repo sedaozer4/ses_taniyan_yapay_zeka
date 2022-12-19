@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ses_taniyan_yapay_zeka.iml" filepath="$PROJECT_DIR$/ses_taniyan_yapay_zeka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/ses_taniyan_yapay_zeka_android.iml" filepath="$PROJECT_DIR$/android/ses_taniyan_yapay_zeka_android.iml" />
+    </modules>
+  </component>
+</project>
